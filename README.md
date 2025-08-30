@@ -1,3 +1,3 @@
-# día-1-igualdad-entre-valores
+# day-1-igualdad-entre-valores
 
-- Estado del proyecto: En desarrollo
+- Estado del proyecto: Concluido
